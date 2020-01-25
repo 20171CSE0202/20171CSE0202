@@ -1,3 +1,3 @@
 # 20171CSE0202
-IT LAB
+IT course
 Hi
